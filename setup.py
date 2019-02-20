@@ -23,7 +23,6 @@ import os
 import sys
 from setuptools import setup, Extension
 
-# all information about QuTiP goes here
 MAJOR = 0
 MINOR = 1
 MICRO = 0
